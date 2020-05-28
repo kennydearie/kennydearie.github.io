@@ -1,11 +1,11 @@
 # Site settings
 author: Nkenge Simms
-title: 
+title: Coding with Kenny
 header-img: img/home-bg.png
 email: simmsn@yahoo.com
 copyright_name: Nkenge Simms
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kennydearie
